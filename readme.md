@@ -1,7 +1,6 @@
 # Audio Racing Game
 
 by Lusi Wang
-
 ---
 
 ## Project Description
@@ -12,14 +11,21 @@ Output: audio in the left and right channel through MAX MSP
 
 ## How to run
 1. load racing_combined.ino on Arduino
-2. open the racing.maxpat in MAX 8
+2. open the racing.maxpat in MAX 8 (Appendix B)
 
 ## How to use
 
-1. Set up the rotary encoder
-2. Select a state in the drop-down list, then click 'submit state' to see all the parks in that state
-3. Select a type in the drop-down list, then click 'submit type' to see all the parks of that type
-4. Refresh the home page to see two new parks featured
+1. Connect a rotary encoder to an Arduino board (see Appendix C)
+2. Choose the serial port in MAX based on the Arduino connection
+3. Connect a set of earphones to the computer
+4. Click the "serial on/off" button in MAX (see Appendix B) to start/restart the game
 
-## State Transition Diagram
+## Appendix
+### A. State Transition Diagram
 ![](image/state.png)
+
+### B. Max Patch
+![](image/max.png)
+
+### C. Hardware Connection
+![](image/hardware.png)
