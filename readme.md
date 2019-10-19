@@ -29,3 +29,5 @@ Output: audio in the left and right channel through MAX MSP
 
 ### C. Hardware Connection
 ![](image/hardware.png)
+
+sound files from freesound.org, under creative commons license
