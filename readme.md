@@ -1,9 +1,8 @@
 # Audio Racing Game
-[Demo Video](https://youtu.be/EThZWB6jVPQ)
 by Lusi Wang
 ---
 
-## Project Description
+## Project Description [Demo Video](https://youtu.be/EThZWB6jVPQ)
 
 This is an audio racing game prototyped with Arduino Uno and Max MSP
 Input: rotary encoder from Arduino
